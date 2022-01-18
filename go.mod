@@ -1,3 +1,3 @@
-module github.com/amitabhprasad/common-module
+module github.com/amitabhprasad/go-modules
 
 go 1.16
